@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "db-json": "^0.1.0",
-    "json-server": "^1.0.0-alpha.23"
-  }
+    "json": "^11.0.0",
+    "json-server": "^1.0.0-alpha.23",
+    "server": "^1.0.39"
+  },
+  "keywords": []
 }
