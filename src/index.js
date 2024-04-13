@@ -7,7 +7,7 @@
      
         function getFilm(){
             const filmList = document.getElementById('films')
-            fetch ("http://localhost:3000/films")
+            fetch ("https://json-server-5-k1mc.onrender.com/films")
             .then (response => response.json() )
             .then ((collection) => {
                 collection.forEach (film => {
