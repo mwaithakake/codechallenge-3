@@ -1,4 +1,4 @@
-const movieList = document.getElementById("films");
+let movieList = document.getElementById("films");
 let idBuyticket = document.getElementById("buy-ticket")
 let movieImg = document.getElementById("poster");
 let Title = document.getElementById("title")
